@@ -1,2 +1,2 @@
-a=[1,2,3,4]
-print(type(a))
+lst=[i for i in range(1,11) if i%2==0]
+print(lst)
