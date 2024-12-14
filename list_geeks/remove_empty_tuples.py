@@ -3,9 +3,8 @@ res = []
 
 # Iterate over the list 'a'
 for i in lst:
-  
-    # If tuple is not empty then add it to res.
-    if i:
+    
+    if i: # If tuple is not empty then add it to res.
         res.append(i)
 
 print(res)
