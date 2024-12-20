@@ -1,0 +1,57 @@
+Square Numbers
+Create a list of squares of numbers from 1 to 10 using list comprehension.
+Output: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+Filter Even Numbers
+Generate a list of even numbers between 1 and 20.
+Output: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+
+Reverse Strings
+Given a list of words, create a new list with each word reversed.
+Input: ["hello", "world", "python"]
+Output: ["olleh", "dlrow", "nohtyp"]
+
+Length of Words
+Generate a list of lengths of words in a given sentence.
+Input: "List comprehensions are awesome"
+Output: [4, 13, 3, 7]
+
+Intermediate Level
+Extract Vowels
+Given a string, use list comprehension to extract all vowels from it.
+Input: "List comprehension practice"
+Output: ['i', 'o', 'e', 'e', 'i', 'o', 'a', 'i', 'e']
+
+Common Elements
+Find the common elements in two lists using list comprehension.
+Input: [1, 2, 3, 4, 5], [3, 4, 5, 6, 7]
+Output: [3, 4, 5]
+
+Prime Numbers
+Generate a list of prime numbers between 1 and 50 using list comprehension.
+
+Flatten a List
+Flatten a 2D list into a 1D list.
+Input: [[1, 2], [3, 4], [5, 6]]
+Output: [1, 2, 3, 4, 5, 6]
+
+Advanced Level
+Conditional Transformation
+Create a list where numbers divisible by 3 are replaced with "Fizz", divisible by 5 with "Buzz", and divisible by both 3 and 5 with "FizzBuzz".
+Input: range(1, 16)
+Output: [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz']
+
+Cartesian Product
+Generate the Cartesian product of two lists using list comprehension.
+Input: [1, 2], ['a', 'b']
+Output: [(1, 'a'), (1, 'b'), (2, 'a'), (2, 'b')]
+
+Remove Duplicates
+Given a list with duplicates, create a new list with only unique elements using list comprehension.
+Input: [1, 2, 2, 3, 4, 4, 5]
+Output: [1, 2, 3, 4, 5]
+
+Transpose a Matrix
+Transpose a 2x3 matrix using list comprehension.
+Input: [[1, 2, 3], [4, 5, 6]]
+Output: [[1, 4], [2, 5], [3, 6]]
